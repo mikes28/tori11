@@ -27,4 +27,4 @@ Az ipari forradalom nyomán a munkások embertelen körülmények között élte
 
 
 ---
-[⬅️ Vissza a README-re](../README.md)
+[⬅️ Vissza a README-re](./README.md)
