@@ -32,4 +32,4 @@
 
 
 ---
-[⬅️ Vissza a README-re](../README.md)
+[⬅️ Vissza a README-re](./README.md)
